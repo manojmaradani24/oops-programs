@@ -1,6 +1,6 @@
 interface Father {
     void fatherProperty();
-}
+}InterfaceReference.java
 interface Mother {
     void motherProperty();
 }

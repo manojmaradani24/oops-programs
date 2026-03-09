@@ -11,7 +11,7 @@ class Department {
         e.showEmployee();
     }
 }
-public class DepartmentEmployeesExample {
+public class StudentToString.java {
     public static void main(String[] args) {
         Department d = new Department();
         d.showDepartment();

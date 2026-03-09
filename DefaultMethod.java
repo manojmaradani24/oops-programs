@@ -8,7 +8,7 @@ class HP implements Laptop {
     public void price() {
         System.out.println("Price is 55000");
     }
-    public static void main(String[] args) {
+   public static void main(String[] args) {
         HP h = new HP();
         h.brand();
         h.price();
